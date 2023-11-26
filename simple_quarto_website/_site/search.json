@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "slides/slides.html#slide-1-adding-images",
+    "href": "slides/slides.html#slide-1-adding-images",
+    "title": "simple_quarto_website",
+    "section": "Slide 1: Adding images",
+    "text": "Slide 1: Adding images\nimage 1:  image 2:"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2-adding-citation",
+    "href": "slides/slides.html#slide-2-adding-citation",
+    "title": "simple_quarto_website",
+    "section": "Slide 2: Adding citation",
+    "text": "Slide 2: Adding citation\nThis is a cite: [@doi:10.1300/J073v21n04\\_07]"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3-adding-code",
+    "href": "slides/slides.html#slide-3-adding-code",
+    "title": "simple_quarto_website",
+    "section": "Slide 3: Adding code",
+    "text": "Slide 3: Adding code"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\\(E = mc^2\\)\n\\[ \\sum_{k=1}^10 \\frac{1}{k^2} = \\frac{\\pi^2}{6} \\]\nThis is a cite: [@doi:10.1300/J073v21n04\\_07]\nflowchart LR\n  A --&gt; B\n  B --&gt; C\n  C --&gt; D\n  C --&gt; E"
+  },
+  {
+    "objectID": "index.html#first-column",
+    "href": "index.html#first-column",
+    "title": "simple_quarto_website",
+    "section": "1 First column",
+    "text": "1 First column\nThis is column one"
+  },
+  {
+    "objectID": "index.html#second-column",
+    "href": "index.html#second-column",
+    "title": "simple_quarto_website",
+    "section": "2 Second column",
+    "text": "2 Second column\nThis is column two"
+  }
+]
